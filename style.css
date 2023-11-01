@@ -26,13 +26,14 @@
     height: 138px;
 }
 
-.nav_list_footer {
-
+.nav_footer {
     display: inline-flex;
     align-items: center;
     gap: 64px;
     opacity: 0.8;
 }
+
+.nav_list_footer {}
 
 .footer_name {
     opacity: 0.9;
