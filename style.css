@@ -1,0 +1,53 @@
+.title_main {
+
+    color: #FFF;
+    text-align: center;
+    font-family: Playfair Display;
+    font-size: 88px;
+    font-weight: 600;
+    line-height: 140%;
+    /* 123.2px */
+}
+
+.desc_main {
+
+    color: #FFF;
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 200%;
+    /* 36px */
+    letter-spacing: -0.18px;
+}
+
+.footer {
+    background: #FFF0DE;
+    width: 1440px;
+    height: 138px;
+}
+
+.nav_list_footer {
+
+    display: inline-flex;
+    align-items: center;
+    gap: 64px;
+    opacity: 0.8;
+}
+
+.footer_name {
+    opacity: 0.9;
+    color: #121212;
+    font-family: Playfair Display;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.SUSHI {
+    color: #B1454A;
+    font-family: Playfair Display;
+    font-size: 24px;
+    font-weight: 700;
+}
