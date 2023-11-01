@@ -51,3 +51,11 @@
     font-size: 24px;
     font-weight: 700;
 }
+
+.nav_item_footer {
+    color: #121212;
+    font-family: Plus Jakarta Sans;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
